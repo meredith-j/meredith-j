@@ -1,4 +1,4 @@
-👋 Hi, I’m @meredith-j. 
+👋 Hi, I’m @meredith-j.  
 🌈 My pronouns are they/them.  
 👀 I’m interested in theatre, D&D, fashion... as for coding, I love a healthy mix of front end and back end -- currently building a plant database (grow a pear) and a playlist-merging platform (tuneup).  
 🌱 My stack is: HTML, CSS, SASS, JavaScript, React.js, Node.js, Knex.js, Express.js, MySQL.  
