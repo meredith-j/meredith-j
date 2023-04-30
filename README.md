@@ -4,7 +4,8 @@
 🌱 My stack is: HTML, CSS, SASS, JavaScript, TypeScript, NextJS, React, Node, Knex, Express, MySQL.  
 🤓 Next on my list of languages to learn are: React Native, Python, PostgreSQL.  
 💞️ Group projects: let me know if you want help with your project or need a teammate for any online or 📍Toronto-based hackathons! I love group projects & hackathons bring out my competitive side.  
-💻 Currently working on my portfolio: https://github.com/meredith-j/portfolio.
+💻 Currently working on my portfolio: https://github.com/meredith-j/portfolio. 
+
 📫 How to reach me: https://www.linkedin.com/in/meredithjonatan/
 
 <!---
